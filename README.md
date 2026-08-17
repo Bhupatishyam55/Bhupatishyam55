@@ -15,7 +15,6 @@
 
 - 🔭 I'm currently working as an **AI Engineer** at **Innomax IT Solutions**, Hyderabad
 - 🧠 I build **RAG systems, LLM agents, and production AI pipelines**
-- 🛠️ Currently fine-tuning **Llama-3-8B / Mistral-7B** with **QLoRA**, building an end-to-end pipeline (training → eval → serving)
 - 📚 Learning **Data Structures & Algorithms** and **ML System Design** to level up as an engineer
 - 🌱 Exploring open-source contributions in the **AI/ML** space
 - 💬 Ask me about **LangChain, RAG, FastAPI, LLM fine-tuning, and agentic systems**
