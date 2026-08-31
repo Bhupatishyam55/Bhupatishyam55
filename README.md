@@ -12,7 +12,6 @@
 ---
 
 ### 🚀 About Me
-<h3>Portfolio  :: https://shyamraju-portfolio.vercel.app/</h3>
 - 🔭 I'm currently working as an **AI Engineer** at **Innomax IT Solutions**, Hyderabad
 - 🧠 I build **RAG systems, LLM agents, and production AI pipelines**
 - 🛠️ Currently fine-tuning **Llama-3-8B / Mistral-7B** with **QLoRA**, building an end-to-end pipeline (training → eval → serving)
