@@ -11,17 +11,14 @@
 
 ---
 
-<h3>Portfolio  :: https://shyamraju-portfolio.vercel.app/</h3>
-
 ### 🚀 About Me
-
-* 🔭 I'm currently working as an **AI Engineer** at **Innomax IT Solutions**, Hyderabad
-* 🧠 I build **RAG systems, LLM agents, and production AI pipelines**
-* 🛠️ Currently fine-tuning **Llama-3-8B / Mistral-7B** with **QLoRA**, building an end-to-end pipeline (training → eval → serving)
-* 📚 Learning **Data Structures & Algorithms** and **ML System Design** to level up as an engineer
-* 🌱 Exploring open-source contributions in the **AI/ML** space
-* 💬 Ask me about **LangChain, RAG, FastAPI, LLM fine-tuning, and agentic systems**
-* 📍 Based in Hyderabad, India
+- 🔭 I'm currently working as an **AI Engineer** at **Innomax IT Solutions**, Hyderabad
+- 🧠 I build **RAG systems, LLM agents, and production AI pipelines**
+- 🛠️ Currently fine-tuning **Llama-3-8B / Mistral-7B** with **QLoRA**, building an end-to-end pipeline (training → eval → serving)
+- 📚 Learning **Data Structures & Algorithms** and **ML System Design** to level up as an engineer
+- 🌱 Exploring open-source contributions in the **AI/ML** space
+- 💬 Ask me about **LangChain, RAG, FastAPI, LLM fine-tuning, and agentic systems**
+- 📍 Based in Hyderabad, India
 
 ---
 
@@ -42,8 +39,8 @@
 
 ### 🔥 Featured Projects
 
-* **🧩 LoRA / QLoRA Fine-tuning Pipeline** — End-to-end fine-tuning of Llama-3-8B / Mistral-7B on a curated CS/AI/ML Q&A dataset using QLoRA (4-bit, HF PEFT), with a before/after eval pipeline and plans for serving, monitoring & CI/CD.
-* **🤖 RAG & Agent Systems** — Building retrieval-augmented generation pipelines and LLM agents at work using LangChain and FastAPI.
+- **🧩 LoRA / QLoRA Fine-tuning Pipeline** — End-to-end fine-tuning of Llama-3-8B / Mistral-7B on a curated CS/AI/ML Q&A dataset using QLoRA (4-bit, HF PEFT), with a before/after eval pipeline and plans for serving, monitoring & CI/CD.
+- **🤖 RAG & Agent Systems** — Building retrieval-augmented generation pipelines and LLM agents at work using LangChain and FastAPI.
 
 > *(Pin your top repos below this section using the GitHub "Pin repositories" feature for max impact!)*
 
